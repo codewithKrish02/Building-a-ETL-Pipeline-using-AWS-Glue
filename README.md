@@ -12,7 +12,7 @@ There are 3 ways in creating the pipelines:
     
     - AWS Cloud Watch
     
-    - AWS Dynamo DB
+    - AWS Redshift or Dynamo DB
     
     - AWS Event Bridge
 
